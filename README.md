@@ -1,4 +1,4 @@
 # main-program
-Software engineering College Project
+Software Engineering College Project
 
 This is text for my test commit
